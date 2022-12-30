@@ -13,3 +13,5 @@ controllers中index.php ＆ about.php & contact.php丟出各自的$heading到vie
 20221230 "一起學MVC" Ep.9
 環境變數設定，放入config.php
 ----------------------------------------------------------------------------------
+20221230 "一起學MVC" Ep.10
+SQL Injection Vulnerabilities Explained
